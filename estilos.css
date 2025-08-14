@@ -9,7 +9,9 @@ h1{
 
 h2{
 
-    background-color: aqua;
+    color: aqua;
+    background-color: rebeccapurple;
+    border-radius: 5px;
 
 }
 
@@ -17,17 +19,41 @@ h2{
 .Deporte{
 
     color: dodgerblue;
-
+    background-color: plum;
+    border-radius: 5px;
 }
 
 .musica{
 
     color: red;
+    background-color: bisque;
+    border-radius: 5px;
 }
 
 
 .serie{
 
     color: brown;
+    background-color: blueviolet;
+    border-radius: 5px;
 
 }
+
+.lib{
+
+    color: cadetblue;
+    background-color: chocolate;
+    border-radius: 5px;
+
+
+}
+
+.hard{
+
+    color: white;
+    background-color: tomato;
+    border-radius: 3px;
+
+
+}
+
